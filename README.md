@@ -46,7 +46,7 @@ Aircraft with only one engine suffer the most amount of damage in the event of a
 
 ## Next steps
 
-Further analysis to compare frequency of aviation events within the context of flight volume in order to calculate likelihood of an aviation accident or event is recommended.
+Further analysis to compare frequency of aviation events within the context of flight volume in order to calculate likelihood of an aviation accident or incident is recommended.
 
 The ability to fly to locations not served by commercial airlines is a draw for corporate clients. An analysis of the risks involved in international private flights is also recommended.
 
@@ -56,9 +56,10 @@ See the full analysis in the Jupyter Notebook or review this presentation.
 
 ## Repository Structure
 
+```
 ├── data
 ├── images
 ├── README.md
-├── aviation_risk_analysis_presentation.pdf
-└── aviation_risk_analysis.ipynb
-
+├── Aviation_Risk_Analysis_Presentation.pdf
+└── Aviation_Risk_Analysis.ipynb
+```
