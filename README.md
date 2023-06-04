@@ -40,8 +40,8 @@ Aircraft with only one engine suffer the most amount of damage in the event of a
 # Conclusion
 <ul> 
 <li><strong>Focus on executive and business audiences.</strong> Flights for business purposes are some of the least frequent types of flights that result in an aviation accident or incident.</li>
-<li><strong>Limit your search to airplanes with turbofan engines.</strong> /li>
-<li><strong>Purchase airplanes with at least 2 - 4 turbofan engines.</strong>/li>
+<li><strong>Limit your search to airplanes with turbofan engines.</strong></li>
+<li><strong>Purchase airplanes with at least 2 - 4 turbofan engines.</strong></li>
 </ul>
 
 ## Next steps
