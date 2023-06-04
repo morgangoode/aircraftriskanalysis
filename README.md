@@ -1,3 +1,5 @@
+![fly hard logo](./images/fly_hard_logo.png)
+
 # FLY-HARD Aviation Risk Analysis
 
 ## Business Problem
@@ -32,9 +34,22 @@ This project uses descriptive analysis to measure the factors which contribute t
 
 Personal and instructional flights are the riskiest.
 
+![flight purpose bar chart](./images/flight_purpose.png)
+
+
 Aircraft with reciprocating engines are more likely to be involved in an accident that involves substantial damage. Conversely, aircraft with turbofan engines are more likely to sustain only minor damage in the event of an accident or incident
 
-Aircraft with only one engine suffer the most amount of damage in the event of an accident or incident.
+![frequency aircraft damage engine type](./images/frequency_aircraft_damage_engine_type.png)
+
+
+Aircraft with only one engine suffer the most amount of damage in the event of an accident.
+
+![substantial damage number of engines](./images/substantial_damage_number_of_engines.png)
+
+![destroyed number of engines](./images/destroyed_number_of_engines.png)
+
+Passengers riding on aircraft with 2 - 4 turbofan engines are more likely to sustain no injuries in the event of an accident.
+![2 to 4 turbofan engines injuries](./images/2_4_turbofan_engines_no_injuries.png)
 
 
 # Conclusion
@@ -52,14 +67,14 @@ The ability to fly to locations not served by commercial airlines is a draw for 
 
 ## For more information 
 
-See the full analysis in the Jupyter Notebook or review this presentation.
+See the full analysis in the <a href="https://github.com/morgangoode/aircraftriskanalysis/blob/main/Aviation_Risk_Analysis.ipynb">Jupyter Notebook</a> or review this <a href="https://github.com/morgangoode/aircraftriskanalysis/blob/main/Aviation_Analysis_Presentation.pdf">presentation</a>.
 
 ## Repository Structure
 
 ```
 ├── data
 ├── images
-├── README.md
-├── Aviation_Risk_Analysis_Presentation.pdf
-└── Aviation_Risk_Analysis.ipynb
+├── Aviation_Risk_Analysis_Presentation.pdf 
+├── Aviation_Risk_Analysis.ipynb
+└── README.md
 ```
