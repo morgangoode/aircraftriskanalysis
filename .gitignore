@@ -1,3 +1,6 @@
+#ignore morgan's local archive
+local-archive/
+
 #ignore all checkpoints
 
 .ipynb_checkpoints/
