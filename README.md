@@ -73,6 +73,14 @@ See the full analysis in the <a href="https://github.com/morgangoode/aircraftris
 
 ```
 ├── data
+    ├── Kaggle_Aviation_Data.csv
+    ├── Main_Dataset_1997_2023.csv
+    ├── Main_Dataset_Taxonomy_Guide.xlsx
+    ├── NTSB_tables
+        ├── 1962-2008
+        ├── 2008-2023
+        ├── data-dictionaries-and-guides
+    ├── filtered_dataframes
 ├── images
 ├── Aviation_Risk_Analysis.ipynb
 ├── Aviation_Risk_Analysis_Presentation.pdf 
