@@ -70,7 +70,7 @@ The ability to fly to locations not served by commercial airlines is a draw for 
 <ul>
     <li>See the full analysis in the <a href="https://github.com/morgangoode/aircraftriskanalysis/blob/main/Aviation_Risk_Analysis.ipynb">Aviation Risk Analysis Jupyter Notebook</a>.</li> 
 <li>Review our group project  <a href="https://github.com/morgangoode/aircraftriskanalysis/blob/main/Aviation_Analysis_Presentation.pdf">presentation</a>. </li>
-<li>See the interactive dashboard on <a href="">Tableau Public</a>.</li>
+<li>See the interactive dashboard on <a href="https://public.tableau.com/app/profile/simon.hui/viz/PHASE1_PROJECT/BarChart">Tableau Public</a>.</li>
 </ul>
 
 ## Repository Structure
